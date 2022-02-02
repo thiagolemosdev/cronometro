@@ -46,6 +46,7 @@ div.botoes ul {
 
 div.botoes li {
   list-style: none;
+  cursor: pointer;
 }
 
 img {
