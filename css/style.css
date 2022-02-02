@@ -53,3 +53,11 @@ img {
   height: 30px;
   width: 30px;
 }
+
+@media (max-width: 500px) {
+  section {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
